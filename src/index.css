@@ -168,7 +168,7 @@ ol {
   padding: 0;
   flex-direction: column;
 }
-
+ 
 #game-board ol {
   display: flex;
   flex-wrap: wrap;
